@@ -79,7 +79,7 @@ require (
 	golang.org/x/text v0.3.2
 	google.golang.org/api v0.13.0
 	google.golang.org/genproto v0.0.0-20191108220845-16a3f7862a1a
-	google.golang.org/grpc v1.25.1
+	google.golang.org/grpc v1.28.1
 	gopkg.in/DataDog/dd-trace-go.v1 v1.19.0
 	gopkg.in/bsm/ratelimit.v1 v1.0.0-20160220154919-db14e161995a // indirect
 	gopkg.in/gcfg.v1 v1.2.3 // indirect
