@@ -36,7 +36,7 @@ require (
 	github.com/garyburd/redigo v1.6.0 // indirect
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-log/log v0.1.0
-	github.com/go-redsync/redsync v1.3.1
+	github.com/go-redsync/redsync v1.4.1
 	github.com/go-stomp/stomp v2.0.3+incompatible
 	github.com/golang/protobuf v1.3.2
 	github.com/gomodule/redigo v2.0.0+incompatible
