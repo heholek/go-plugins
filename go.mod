@@ -72,7 +72,7 @@ require (
 	github.com/tinylib/msgp v1.1.0
 	go.opencensus.io v0.22.2
 	go.uber.org/ratelimit v0.1.0
-	gocloud.dev v0.17.0
+	gocloud.dev v0.19.0
 	gocloud.dev/pubsub/rabbitpubsub v0.17.0
 	golang.org/x/net v0.0.0-20191209160850-c0dbc17a3553
 	golang.org/x/oauth2 v0.0.0-20191202225959-858c2ad4c8b6
