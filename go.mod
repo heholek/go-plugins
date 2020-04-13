@@ -69,7 +69,7 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/streadway/amqp v0.0.0-20190827072141-edfb9018d271
 	github.com/stretchr/testify v1.4.0
-	github.com/tinylib/msgp v1.1.0
+	github.com/tinylib/msgp v1.1.2
 	go.opencensus.io v0.22.2
 	go.uber.org/ratelimit v0.1.0
 	gocloud.dev v0.17.0
