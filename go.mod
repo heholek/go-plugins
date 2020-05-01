@@ -60,7 +60,7 @@ require (
 	github.com/nsqio/go-nsq v1.0.7
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
 	github.com/opentracing/opentracing-go v1.1.0
-	github.com/prometheus/client_golang v1.2.1
+	github.com/prometheus/client_golang v1.6.0
 	github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4
 	github.com/rs/cors v1.7.0
 	github.com/samuel/go-zookeeper v0.0.0-20190923202752-2cc03de413da
