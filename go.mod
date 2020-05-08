@@ -16,7 +16,7 @@ replace github.com/gogo/protobuf => github.com/gogo/protobuf v1.3.0
 
 require (
 	cloud.google.com/go/pubsub v1.0.1
-	cuelang.org/go v0.0.14
+	cuelang.org/go v0.1.2
 	github.com/DataDog/datadog-go v3.2.0+incompatible // indirect
 	github.com/Shopify/sarama v1.24.1
 	github.com/VictoriaMetrics/metrics v1.9.2
