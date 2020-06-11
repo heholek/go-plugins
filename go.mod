@@ -15,7 +15,7 @@ replace k8s.io/component-base => k8s.io/component-base v0.0.0-20190708175518-244
 replace github.com/gogo/protobuf => github.com/gogo/protobuf v1.3.0
 
 require (
-	cloud.google.com/go/pubsub v1.0.1
+	cloud.google.com/go/pubsub v1.3.1
 	cuelang.org/go v0.0.14
 	github.com/DataDog/datadog-go v3.2.0+incompatible // indirect
 	github.com/Shopify/sarama v1.24.1
@@ -26,7 +26,7 @@ require (
 	github.com/anacrolix/utp v0.0.0-20180219060659-9e0e1d1d0572
 	github.com/asim/go-awsxray v0.0.0-20161209120537-0d8a60b6e205
 	github.com/asim/go-bson v0.0.0-20160318195205-84522947cabd
-	github.com/aws/aws-sdk-go v1.25.31
+	github.com/aws/aws-sdk-go v1.31.13
 	github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
 	github.com/clbanning/x2j v0.0.0-20191024224557-825249438eec // indirect
@@ -38,7 +38,7 @@ require (
 	github.com/go-log/log v0.1.0
 	github.com/go-redsync/redsync v1.3.1
 	github.com/go-stomp/stomp v2.0.3+incompatible
-	github.com/golang/protobuf v1.3.2
+	github.com/golang/protobuf v1.4.2
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/google/uuid v1.1.1
 	github.com/googleapis/gnostic v0.3.1 // indirect
@@ -68,18 +68,18 @@ require (
 	github.com/sony/gobreaker v0.4.1
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/streadway/amqp v0.0.0-20190827072141-edfb9018d271
-	github.com/stretchr/testify v1.4.0
+	github.com/stretchr/testify v1.5.1
 	github.com/tinylib/msgp v1.1.0
-	go.opencensus.io v0.22.2
+	go.opencensus.io v0.22.3
 	go.uber.org/ratelimit v0.1.0
-	gocloud.dev v0.17.0
+	gocloud.dev v0.20.0
 	gocloud.dev/pubsub/rabbitpubsub v0.17.0
-	golang.org/x/net v0.0.0-20191209160850-c0dbc17a3553
-	golang.org/x/oauth2 v0.0.0-20191202225959-858c2ad4c8b6
+	golang.org/x/net v0.0.0-20200602114024-627f9648deb9
+	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	golang.org/x/text v0.3.2
-	google.golang.org/api v0.13.0
-	google.golang.org/genproto v0.0.0-20191108220845-16a3f7862a1a
-	google.golang.org/grpc v1.25.1
+	google.golang.org/api v0.26.0
+	google.golang.org/genproto v0.0.0-20200608115520-7c474a2e3482
+	google.golang.org/grpc v1.29.1
 	gopkg.in/DataDog/dd-trace-go.v1 v1.19.0
 	gopkg.in/bsm/ratelimit.v1 v1.0.0-20160220154919-db14e161995a // indirect
 	gopkg.in/gcfg.v1 v1.2.3 // indirect
