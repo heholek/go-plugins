@@ -55,8 +55,8 @@ require (
 	github.com/minio/highwayhash v1.0.0
 	github.com/mitchellh/hashstructure v1.0.0
 	github.com/nats-io/nats-streaming-server v0.16.2 // indirect
-	github.com/nats-io/nats.go v1.9.1
-	github.com/nats-io/stan.go v0.5.0
+	github.com/nats-io/nats.go v1.10.0
+	github.com/nats-io/stan.go v0.7.0
 	github.com/nsqio/go-nsq v1.0.7
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
 	github.com/opentracing/opentracing-go v1.1.0
