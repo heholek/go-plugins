@@ -16,7 +16,7 @@ replace github.com/gogo/protobuf => github.com/gogo/protobuf v1.3.0
 
 require (
 	cloud.google.com/go/pubsub v1.0.1
-	cuelang.org/go v0.0.14
+	cuelang.org/go v0.2.2
 	github.com/DataDog/datadog-go v3.2.0+incompatible // indirect
 	github.com/Shopify/sarama v1.24.1
 	github.com/VictoriaMetrics/metrics v1.9.2
@@ -74,7 +74,7 @@ require (
 	go.uber.org/ratelimit v0.1.0
 	gocloud.dev v0.17.0
 	gocloud.dev/pubsub/rabbitpubsub v0.17.0
-	golang.org/x/net v0.0.0-20191209160850-c0dbc17a3553
+	golang.org/x/net v0.0.0-20200226121028-0de0cce0169b
 	golang.org/x/oauth2 v0.0.0-20191202225959-858c2ad4c8b6
 	golang.org/x/text v0.3.2
 	google.golang.org/api v0.13.0
