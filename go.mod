@@ -38,7 +38,7 @@ require (
 	github.com/go-log/log v0.1.0
 	github.com/go-redsync/redsync v1.3.1
 	github.com/go-stomp/stomp v2.0.3+incompatible
-	github.com/golang/protobuf v1.3.2
+	github.com/golang/protobuf v1.3.3
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/google/uuid v1.1.1
 	github.com/googleapis/gnostic v0.3.1 // indirect
@@ -79,7 +79,7 @@ require (
 	golang.org/x/text v0.3.2
 	google.golang.org/api v0.13.0
 	google.golang.org/genproto v0.0.0-20191108220845-16a3f7862a1a
-	google.golang.org/grpc v1.25.1
+	google.golang.org/grpc v1.31.1
 	gopkg.in/DataDog/dd-trace-go.v1 v1.19.0
 	gopkg.in/bsm/ratelimit.v1 v1.0.0-20160220154919-db14e161995a // indirect
 	gopkg.in/gcfg.v1 v1.2.3 // indirect
