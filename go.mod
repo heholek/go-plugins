@@ -26,7 +26,7 @@ require (
 	github.com/anacrolix/utp v0.0.0-20180219060659-9e0e1d1d0572
 	github.com/asim/go-awsxray v0.0.0-20161209120537-0d8a60b6e205
 	github.com/asim/go-bson v0.0.0-20160318195205-84522947cabd
-	github.com/aws/aws-sdk-go v1.25.31
+	github.com/aws/aws-sdk-go v1.35.12
 	github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
 	github.com/clbanning/x2j v0.0.0-20191024224557-825249438eec // indirect
@@ -74,7 +74,7 @@ require (
 	go.uber.org/ratelimit v0.1.0
 	gocloud.dev v0.17.0
 	gocloud.dev/pubsub/rabbitpubsub v0.17.0
-	golang.org/x/net v0.0.0-20191209160850-c0dbc17a3553
+	golang.org/x/net v0.0.0-20200202094626-16171245cfb2
 	golang.org/x/oauth2 v0.0.0-20191202225959-858c2ad4c8b6
 	golang.org/x/text v0.3.2
 	google.golang.org/api v0.13.0
